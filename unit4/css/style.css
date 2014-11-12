@@ -3,25 +3,37 @@ body {
 	background-repeat: no-repeat;
 	background-size: cover;
 	color: white;
-	padding-top: 250px;
+	margin-top: 50px;
 	margin-left: 80px;
 	font-family: 'Muli', sans-serif;
 }
-hr	{
-	width: 670;
-	margin-left: 0px;
-}
 h1 {
+	margin-left: 190px;
+	font-family: 'Dancing Script', cursive;
+	font-size: 60px;
+	font-weight: 600px;
+	letter-spacing: -2px;
+	text-decoration: blink;
+}
+h2 {
+	margin-top: 170px;
 	font-family: 'Oswald', sans-serif;
 	font-size: 40px;
-	font-weight: bolder;
+	font-weight: 900;
 	line-height: 50px;
 	text-transform: uppercase;
 	letter-spacing: 5px;
 }
+hr	{
+	width: 670;
+	margin-left: 0px;
+	border: 3px solid;
+	
+}
+
 p {
 	font-size: 20px;
-	font-weight: lighter;
+	font-weight: 200;
 	line-height: 50px;
 	margin-left: 150px;
 }
