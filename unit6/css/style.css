@@ -1,0 +1,34 @@
+#logo {
+	float: left;
+}
+
+nav {
+	font-family: 'Dosis', sans-serif;
+	float: right;
+}
+
+h1 {
+	clear: both;
+	font-family: 'Laila', serif;
+	text-align: center;
+	
+}
+
+h2 {
+	font-family: 'Dosis', sans-serif;
+	text-align: center;
+}
+
+#cover {
+	align-self: center;
+}
+
+p {
+	font-family: 'Laila', serif;
+	float: left;
+}
+
+a {
+	font-family: 'Dosis', sans-serif;
+	float:  right;
+}
