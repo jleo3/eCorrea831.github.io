@@ -63,7 +63,7 @@ h2 {
 p {
 	font-family: 'Laila', serif;
 	float: left;
-	font-weight: 100em;
+	font-weight: 200em;
 	letter-spacing: -1px;
 	max-width: 450px;
 }
@@ -81,7 +81,6 @@ p {
 	border-width: 5px;
 	border-style: groove;
 	padding: 10px;
-	text-decoration: none;
 }
 
 .action:hover {
