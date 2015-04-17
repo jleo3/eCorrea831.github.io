@@ -26,7 +26,7 @@ nav {
 	margin-top: 20px;
 	}
 	
-nav: hover {
+nav:hover {
 	color: #4FBD6F;
 }
 
@@ -84,6 +84,6 @@ p {
 	text-decoration: none;
 }
 
-.action: hover {
+.action:hover {
 	color: #E6A36C;
 }
