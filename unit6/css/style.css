@@ -5,7 +5,7 @@ body{
 	margin-right: 30px;
 }
 
-#header {
+header {
 	background-color: #85291D;
 	margin-top: 15px;
 }
@@ -13,6 +13,7 @@ body{
 #logo {
 	float: left;
 	border-color: #E6A36C;
+	border-width: 2px;
 }
 
 nav {
@@ -34,7 +35,7 @@ h1 {
 	clear: both;
 	font-family: 'Laila', serif;
 	text-align: center;
-	font-weight: 100em;
+	font-weight: 100;
 }
 
 hr {
@@ -46,7 +47,7 @@ hr {
 
 h2 {
 	text-align: center;
-	font-weight: 600em;
+	font-weight: 600;
 	font-size: 30px;
 	font-style: italic;
 }
@@ -63,7 +64,7 @@ h2 {
 p {
 	font-family: 'Laila', serif;
 	float: left;
-	font-weight: 200em;
+	font-weight: 200;
 	letter-spacing: -1px;
 	max-width: 450px;
 }
@@ -71,7 +72,7 @@ p {
 .action {
 	float: right;
 	font-family: 'Dosis', sans-serif;
-	font-weight: 700em;
+	font-weight: 700;
 	font-size: 20px;
 	letter-spacing: 0;
 	color: white;
